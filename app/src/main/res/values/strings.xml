@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Auth practice</string>
+    <string name="kacd_hello"><![CDATA[KACD <3]]></string>
+    <string name="default_web_client_id">453254646485-m2jsml11ojn6bjgrkc39hoghu05umj4a.apps.googleusercontent.com</string>
+</resources>
